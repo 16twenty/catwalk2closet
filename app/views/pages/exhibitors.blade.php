@@ -49,5 +49,6 @@
 		</div>
 	</div>
 </div>
+@include('content.brands')
 @include('content.contact')
 @stop
