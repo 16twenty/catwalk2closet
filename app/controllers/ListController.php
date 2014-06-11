@@ -5,9 +5,25 @@ use Hugofirth\Mailchimp\Facades\MailchimpWrapper;
 class ListController extends Controller {
     
     public function subscribe() {     
-        $temp = MailchimpWrapper::lists()->getList();
+        $valid = Validator::make(
+                                 array('First Name' =>  Input::get('firstname'),
+                                       'Last Name' => Input::get('lastname'),
+                                       'email'=>Input::get('email')),
+                                 array('First Name' => 'required|alpha',
+                                        'Last Name' => 'required|alpha',
+                                        'email'=>'required|email'));
+        if($valid->passes()) {
+            $temp = MailchimpWrapper::lists()->getList();
         
-        $listid = $temp['data'][0]['id'];
-        MailchimpWrapper::lists()->subscribe($listid,array('email'=>Input::get('email')));
+            $listid = $temp['data'][0]['id'];
+            $mergevars = array('FNAME'=>Input::get('firstname'),'LNAME'=>Input::get('lastname'));
+            $email = array('email'=>Input::get('email'));
+            if(MailchimpWrapper::lists()->subscribe($listid,$email,$mergevars)) {
+            
+                return View::make('pages/vip')->with(array('success'=>1));
+            }
+        } else {
+            return View::make('pages/vip')->withErrors($valid);
+        }
     }
 }

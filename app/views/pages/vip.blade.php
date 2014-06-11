@@ -12,6 +12,13 @@
 <div class="row">
     <div class="eight columns centered">
         VIPs get early access to the event so they can snag the best deals before anyone else. Want to get on the list? Fill out the form below.
+        @if($errors->count() > 0)
+            @foreach($errors->all() as $message)
+            <div class="danger alert">
+                {{ $message }}
+            </div>
+            @endforeach
+        @endif
         <form name="viplistform" action="{{ URL::to('vip') }} " method="post">
             <ul>
                 <li class="field">
@@ -35,11 +42,13 @@
         </form>
     </div>
 </div>
-<div class="row">
-    <div class="six columns centered">
-        Thank you for your interest in Catwalk 2 Closet!
+@if(isset($success))
+    <div class="row">
+        <div class="four columns centered success alert">
+            Thank you for your interest in Catwalk 2 Closet! A confirmation email has been sent to your email address.
+        </div>
     </div>
-</div>
+@endif
 </div>
 
 @include('content.contact')
