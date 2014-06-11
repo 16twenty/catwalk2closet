@@ -57,6 +57,10 @@ p a {
 p a:hover {
 	color: #e21c74;
 	text-decoration: underline;
+	-webkit-transition: all .2s ease-out;
+    -moz-transition: all .2s ease-out;
+    -o-transition: all .2s ease-out;
+    transition: all .2s ease-out;
 }
 /*Header*/
 .header {
@@ -80,8 +84,15 @@ p a:hover {
 	font-size: 16px;
 	margin-top:3px;
 }
-.social {
+.social  {
 	margin: 3px 0 110px 0;
+}
+.social a {
+	color: #7b7a7a;
+	-webkit-transition: all .2s ease-out;
+    -moz-transition: all .2s ease-out;
+    -o-transition: all .2s ease-out;
+    transition: all .2s ease-out;
 }
 .logo_scroll {
 	opacity: 0;
