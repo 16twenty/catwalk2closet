@@ -47,6 +47,10 @@ strong {
 	background: #e21c74;
 	border: 1px solid #c51f69;
 }
+.btn.primary:hover {
+	background: #e85496;
+	border: 1px solid #c51f69;
+}
 p a {
 	color: #e21c74;
 }

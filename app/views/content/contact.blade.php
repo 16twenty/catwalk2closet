@@ -13,7 +13,7 @@
 				<span class="paint_pink"></span>
 			</div>-->
 			<h5 class="text-center">Designers & Exhibitors</h5>
-			<p><i class="icon-mail"></i>Email: <a href="mailto:vedors@catwalk2closet.com">vedors@catwalk2closet.com</a></p>
+			<p><i class="icon-mail"></i>Email: <a href="mailto:vendors@catwalk2closet.com">vendors@catwalk2closet.com</a></p>
 			<p><i class="icon-phone"></i>Phone: <a href="tel:4165353939">(416) 555-1324</a></p>
 		</div>
 		<div class="four columns">
