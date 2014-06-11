@@ -55,6 +55,9 @@ strong {
 	margin-bottom: 0;
 	padding-top:7px;
 }
+.navbar ul {
+	float:right;
+}
 .logo {
 	margin: 100px 0 0 9px;	
 }
@@ -274,4 +277,77 @@ strong {
 	font-size: 20px;
 }
 
-
+/*Media Queries*/
+@media only screen and (max-width: 767px) {
+	h1 {
+		font-size: 14px;
+		margin-top:12px;
+	}
+	.social {
+		margin-bottom:20px;
+	}
+	.top_space {
+		margin:0;
+	}
+	.logo_scroll {
+		display: none;
+	}
+	.navbar a.toggle {
+		background-color: #0fa4a1;
+	}
+	.navbar a.toggle:hover, .navbar a.toggle.active  {
+		background-color: #0d807e;
+	}
+	.box {
+		background-size: cover!important;
+		-webkit-background-size: cover;
+		-moz-background-size: cover;
+		-o-background-size: cover;
+		background-size: cover;
+	}
+	.box a {
+		padding-top:113px;
+	}
+	.paint_pink {
+		height:400px;
+		opacity: .9;
+		-webkit-transition: none;
+	    -moz-transition: none;
+	    -o-transition: none;
+	    transition: none;
+	}
+	.box a:hover ~ .paint_pink {
+		height:400px;
+	    -webkit-transition: none;
+	    -moz-transition: none;
+	    -o-transition: none;
+	    transition: none;	
+	}
+	.paint_blue {
+		height:400px;
+		opacity: .9;
+		-webkit-transition: none;
+	    -moz-transition: none;
+	    -o-transition: none;
+	    transition: none;
+	}
+	.box a:hover ~ .paint_blue {
+		height:400px;
+	    -webkit-transition: none;
+	    -moz-transition: none;
+	    -o-transition: none;
+	    transition: none;	
+	}
+	.list img {
+		margin-right:6%;
+	}
+	.list img:last-child {
+		margin-right:0;
+	}
+	.info .four {
+		text-align: center;
+	}
+	.text-right {
+		text-align: center;
+	}
+}
