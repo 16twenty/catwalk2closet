@@ -1,4 +1,277 @@
-/*
-We highly recommend you use SASS and write your custom styles in sass/_custom.scss.
-However, this blank file is available if you prefer
-*/
+/*Global*/
+p {
+	color: #7b7a7a;
+	text-align: center;
+}
+h1 {
+	color: #ffffff;
+	font-size: 14px;
+	font-weight: 700;
+	margin-top:17px;
+}
+h2 {
+	font-size: 14px;
+	color: #ffffff;
+	text-transform: uppercase;
+	text-align: center;
+	padding-top:26px;
+}
+h3 {
+	font-size: 18px;
+	color: #ffffff;
+	text-transform: uppercase;
+	font-weight: 800;
+	margin-bottom: 10px;
+}
+h4 {
+	font-size: 32px;
+	color: #b0adad;
+	text-transform: uppercase;
+	font-weight: 700;
+	padding: 36px 0;
+	border-top: 2px solid #666666;
+	border-bottom: 2px solid #666666;
+}
+h5 {
+	text-transform: uppercase;
+	margin-bottom: 20px;
+}
+strong {
+	text-transform: uppercase;
+	font-weight: 700;
+}
+.bottom_fix{
+	margin-bottom:-8px;	
+}
+/*Header*/
+.header {
+	background: url(../../img/header_bg.jpg) 0 0 repeat;
+}
+.nav {
+	background: url(../../img/header_bg.jpg) 0 0 repeat;
+}
+.navbar {
+	background: transparent;
+	margin-bottom: 0;
+	padding-top:7px;
+}
+.logo {
+	margin: 100px 0 0 9px;	
+}
+.tagline {
+	font-size: 16px;
+	margin-top:3px;
+}
+.social {
+	margin: 3px 0 110px 0;
+}
+.logo_scroll {
+	opacity: 0;
+    -webkit-transition: all .2s ease-out;
+    -moz-transition: all .2s ease-out;
+    -o-transition: all .2s ease-out;
+    transition: all .2s ease-out;
+}
+.logo_on {
+	opacity:1;
+    -webkit-transition: all .2s ease-out;
+    -moz-transition: all .2s ease-out;
+    -o-transition: all .2s ease-out;
+    transition: all .2s ease-out;
+}
+.top_space{
+	margin-top:74px;
+}
+.nav.fixed {
+	width:100%;
+	z-index: 500;
+}
+/*Events*/
+.event {
+	background: url(../../img/event_bg.png) 0 0 repeat;
+}
+.ribbon {
+	background: url(../../img/ribbon.png) center center no-repeat;
+	height: 69px;
+	margin: 25px 0 50px 0;
+}
+.inner_nav .four {
+	border-bottom: 1px solid #c7c7c7;
+	padding-bottom: 50px;
+	margin-bottom: 50px;
+}
+.box {
+	height: 300px;
+	border: 10px solid #ffffff;
+	position: relative;
+	text-align: center;
+	overflow: hidden;
+	z-index: 100;
+	-moz-box-shadow: inset 0 0 10px #999999;
+    -webkit-box-shadow: inset 0 0 10px #999999;
+    box-shadow: inset 0 0 10px #999999;
+    
+}
+.box a {
+	color: #ffffff;
+	font-size: 35px;
+	text-transform: uppercase;
+	font-weight: bold;
+	line-height: 50px;
+	z-index: 1;
+	width:100%;
+	height:100%;
+	display: block;
+	padding-top: 80px;
+	-webkit-transform: translateZ(0px);
+}
+.paint_pink {
+    background-image: url(../../img/paint_pink.png);   
+    background-position: top right;
+    position: absolute;
+    bottom: 0px;
+    left:0px;
+    width: 100%;
+    height: 0px;
+    -webkit-transition: all 1s ease-out;
+    -moz-transition: all 1s ease-out;
+    -o-transition: all 1s ease-out;
+    transition: all 1s ease-out;
+    z-index: -1;
+    opacity: 0;
+}
+.box a:hover ~ .paint_pink {
+    height: 368px;
+    background-position: top left;
+    -webkit-transition: all 1s ease-out;
+    -moz-transition: all 1s ease-out;
+    -o-transition: all 1s ease-out;
+    transition: all 1s ease-out;	
+    opacity: .9;
+}
+.paint_blue {
+    background-image: url(../../img/paint_blue.png);   
+    background-position: top right;
+    position: absolute;
+    bottom: 0px;
+    left:0px;
+    width: 100%;
+    height: 0px;
+    -webkit-transition: all 1s ease-out;
+    -moz-transition: all 1s ease-out;
+    -o-transition: all 1s ease-out;
+    transition: all 1s ease-out;
+    z-index: -1;
+    opacity: 0;
+}
+.box a:hover ~ .paint_blue {
+    height: 368px;
+    background-position: top left;
+    -webkit-transition: all 1s ease-out;
+    -moz-transition: all 1s ease-out;
+    -o-transition: all 1s ease-out;
+    transition: all 1s ease-out;
+    opacity: .9;	
+}
+#about {
+	background: url(../../img/130128_Elements_day2_201-e1390862273235.jpg) center center no-repeat;
+}
+#exhibitors {
+	background: url(../../img/Whos-Next-Tradeshow-Paris-Shot-600x325.jpg) center center no-repeat;
+}
+#vip {
+	background: url(../../img/6ee0de6fb69ebf7d9ff8301e36c202bbea509a.jpg) center center no-repeat;
+}
+.cta {
+	background-color: #e21c74;
+	color: #ffffff;
+	padding: 20px; 
+	margin-bottom: 50px;
+}
+.cta p {
+	text-align: left;
+	color: #ffffff;
+}
+/*Featured*/
+.featured {
+	background-color: #a0d2cf;
+}
+.featured #heading {
+	position: relative;
+	z-index: 10;
+}
+.featured .ribbon {
+	margin-bottom:0;
+}
+.f_brand {
+	background-color: #c40e5f;
+}
+/*Brands*/
+.brands {
+	background: url(../../img/brands_bg.jpg) 0 0 repeat;
+}
+.ribbon_light {
+	background: url(../../img/ribbon_light.png) center center no-repeat;
+	height: 69px;
+	margin: 25px 0 50px 0;
+}
+.promo {
+	border-top: 4px solid #666666;
+	border-bottom: 4px solid #666666;
+	padding: 4px 0;	
+	margin-bottom:45px;
+}
+.list img {
+	margin-bottom: 55px;
+}
+/*Contact*/
+.contact_inner .box {
+	box-shadow: 0 0 5px #999999;
+	margin-bottom: 40px;
+}
+.contact_inner .four {
+	border-bottom: 1px solid #c7c7c7;
+	padding-bottom: 40px;
+	margin-bottom: 50px;
+}
+.contact_inner .paint_pink {
+    background-image: url(../../img/paint_pink.png);   
+    background-position: top right;
+    position: absolute;
+    bottom: 0px;
+    left:0px;
+    width: 100%;
+    height: 380px;
+    z-index: -1;
+    opacity: .9;
+}
+.contact_inner .paint_blue {
+    background-image: url(../../img/paint_blue.png);   
+    background-position: top right;
+    position: absolute;
+    bottom: 0px;
+    left:0px;
+    width: 100%;
+    height: 380px;
+    -webkit-transition: all 1s ease-out;
+    -moz-transition: all 1s ease-out;
+    -o-transition: all 1s ease-out;
+    transition: all 1s ease-out;
+    z-index: -1;
+    opacity: .9;
+} 
+/*Footer*/
+.footer {
+	background: url(../../img/header_bg.jpg) 0 0 repeat;
+	color: #686666;
+}
+.info {
+	padding:30px 0;
+	text-transform: uppercase;
+}
+.info i {
+	color: #e21c74;
+	font-size: 20px;
+}
+
+

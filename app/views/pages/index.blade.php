@@ -2,6 +2,9 @@
 
 @section('content')
 
-Basic Content Here
+@include('content.event')
+@include('content.featured')
+@include('content.brands')
+@include('content.contact')
 
 @stop
