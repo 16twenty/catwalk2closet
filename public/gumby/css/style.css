@@ -43,6 +43,17 @@ strong {
 .bottom_fix{
 	margin-bottom:-8px;	
 }
+.btn.primary {
+	background: #e21c74;
+	border: 1px solid #c51f69;
+}
+p a {
+	color: #e21c74;
+}
+p a:hover {
+	color: #e21c74;
+	text-decoration: underline;
+}
 /*Header*/
 .header {
 	background: url(../../img/header_bg.jpg) 0 0 repeat;
@@ -266,7 +277,7 @@ strong {
 /*Footer*/
 .footer {
 	background: url(../../img/header_bg.jpg) 0 0 repeat;
-	color: #686666;
+	color: #ffffff;
 }
 .info {
 	padding:30px 0;
@@ -276,7 +287,44 @@ strong {
 	color: #e21c74;
 	font-size: 20px;
 }
-
+/*VIP*/
+.vip_list {
+	background: #0fa4a1;
+	margin:40px 0;
+	padding:20px 0;
+	border: 10px solid #ffffff;
+}
+.append .wide {
+	width: 55.555%;
+}
+/*About*/
+.bordered {
+	border: 10px solid #ffffff;
+}
+/*Exhibitors*/
+.exhibitor_list {
+	margin-bottom:30px;
+}
+.exhibitor_list li {
+	margin-bottom:20px;
+	text-align: center;
+}
+.exhibitor_list li a {
+	font-weight: 700;
+	color: #666666;
+	-webkit-transition: all .2s ease-out;
+    -moz-transition: all .2s ease-out;
+    -o-transition: all .2s ease-out;
+    transition: all .2s ease-out;
+}
+.exhibitor_list li a:hover {
+	color: #0fa4a1;
+	-webkit-transition: all .2s ease-out;
+    -moz-transition: all .2s ease-out;
+    -o-transition: all .2s ease-out;
+    transition: all .2s ease-out;
+	
+}
 /*Media Queries*/
 @media only screen and (max-width: 767px) {
 	h1 {
