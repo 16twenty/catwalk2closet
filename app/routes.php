@@ -15,3 +15,15 @@ Route::get('/', function()
 {
 	return View::make('pages/index');
 });
+
+Route::get('/about', function() {
+	return View::make('pages/about');
+});
+
+Route::get('/exhibitors', function() {
+	return View::make('pages/exhibitors');
+});
+
+Route::get('/vip', function() {
+	return View::make('pages/vip');
+});
