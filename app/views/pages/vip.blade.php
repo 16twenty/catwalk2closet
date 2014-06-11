@@ -22,6 +22,11 @@
 						</div>
 						@endforeach
 					@endif
+                    @if(isset($chimperror))
+                        <div class="danger alert">
+							{{ $chimperror }}
+						</div>
+                    @endif
 	            <ul>
 	                <li class="field text-center">
 	                    <input class="wide text input" type="text" name="firstname" id="firstname" placeholder="First Name" />
