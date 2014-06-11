@@ -27,3 +27,5 @@ Route::get('/exhibitors', function() {
 Route::get('/vip', function() {
 	return View::make('pages/vip');
 });
+
+Route::post('/vip', array('uses'=>'ListController@subscribe'));
