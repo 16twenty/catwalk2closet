@@ -41,4 +41,11 @@
 			</div>
 		</div>
 	</div>
+	<div class="row">
+		<div class="six columns centered text-center">
+			<div class="medium primary btn">
+				<a href="{{ URL::to('/exhibitors') }}">See More Exhibitors</a>
+			</div>
+		</div>
+	</div>
 </div>

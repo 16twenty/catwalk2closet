@@ -12,5 +12,11 @@ $('nav').on('gumby.onFixed', function(e) {
   $('.header').removeClass('top_space');
   $('.logo_scroll').removeClass('logo_on');
   });
+
+  $('#navcontact').click(function(event){
+	  event.preventDefault();
+	  $('html, body').animate({
+		scrollTop: $('footer').offset().top}, 1000);
+  });
 </script>
 

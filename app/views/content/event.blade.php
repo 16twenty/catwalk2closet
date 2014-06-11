@@ -9,19 +9,19 @@
 	<div class="row inner_nav">
 		<div class="four columns">
 			<div class="box" id="about">
-				<a href="#">About The Show</a>
+				<a href="{{ URL::to('/about') }}">About The Show</a>
 				<span class="paint_pink"></span>
 			</div>
 		</div>
 		<div class="four columns">
 			<div class="box" id="exhibitors">
-				<a href="#">The Exhibitors</a>
+				<a href="{{ URL::to('/exhibitors') }}">The Exhibitors</a>
 				<span class="paint_blue"></span>
 			</div>
 		</div>
 		<div class="four columns">
 			<div class="box" id="vip">
-				<a href="#">Shop The Show First</a>
+				<a href="{{ URL::to('/vip') }}">Shop The Show First</a>
 				<span class="paint_pink"></span>
 			</div>
 		</div>

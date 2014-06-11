@@ -20,19 +20,19 @@
 		<h1 class="five columns">Direct Energy Centre, Oct 23 - Oct 26</h1>
 		<ul class="six columns">
 			<li>
-				<a href="#"><i class="icon-home"></i></a>
+				<a href="{{ URL::to('/') }}"><i class="icon-home"></i></a>
 			</li>
 			<li>
-				<a href="#">About</a>
+				<a href="{{ URL::to('/about') }}">About</a>
 			</li>
 			<li>
-				<a href="#">Exhibitors</a>
+				<a href="{{ URL::to('/exhibitors') }}">Exhibitors</a>
 			</li>
 			<li>
-				<a href="#">VIP</a>
+				<a href="{{ URL::to('/vip') }}">VIP</a>
 			</li>
 			<li>
-				<a href="#">Contact</a>
+				<a href="" id="navcontact">Contact</a>
 			</li>
 		</ul>
 	</div>
