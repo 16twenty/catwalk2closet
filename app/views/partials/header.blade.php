@@ -1,8 +1,8 @@
 <div class="header">
 	<div class="row">
 		<div class="six columns centered text-center">
-			<a href="{{ URL::to('/') }}"><img class="logo" src="{{ asset('img/logo.png') }}" width="316"></a>
-			<p class="tagline">Toronto's Only Bi-Annual Designer Sample Sale</p>
+			<a href="{{ URL::to('/') }}"><img class="logo" src="{{ asset('img/logo.png') }}" width="443"></a>
+			<p class="tagline">Toronto's Largest Designer Sample Sale</p>
 			<p class="social">
 				<a href="https://www.facebook.com/pages/Catwalk-2-Closet-Toronto/670426873007197" target="_blank"><i class="icon-facebook-squared"></i></a>
 				<a href="https://twitter.com/Catwalk2Closet" target="_blank"><i class="icon-twitter"></i></a>
@@ -17,8 +17,7 @@
 		<div class="one column alpha logo_scroll">
 			<a href="{{ URL::to('/') }}"><img class="logo" src="{{ asset('img/logo_small.png') }}"></a>
 		</div>
-		<h1 class="five columns">Direct Energy Centre, Oct 23 - Oct 26</h1>
-		<ul class="six columns">
+		<ul class="six columns centered">
 			<li>
 				<a href="{{ URL::to('/') }}"><i class="icon-home"></i></a>
 			</li>

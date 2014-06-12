@@ -11,9 +11,9 @@
 	</div>
 	<div class="row">
 	    <div class="eight columns centered text-center">
-	        <strong>VIPs</strong> get exclusive access to the showroom on opening night so they can snag the best deals before anyone else. <strong>Want to get on the list?</strong> Fill out the form below.
+	        <p>Sign up and be the first to receive C2C <strong>exclusive offers and contests</strong> as well as a <strong>personal VIP invite</strong> to shop the show first before we open to the public.<br> Fill out the form below and become a VIP.</p>
 
-	        <form class="vip_list nine columns centered" name="viplistform" action="{{ URL::to('vip') }} " method="post">
+	        <form class="vip_list nine columns centered" name="viplistform" action="{{ URL::to('vip') }}" method="post">
 	            <h3 class="text-center"><i class="icon-star"></i>Become a VIP</h3>
 					@if($errors->count() > 0)
 						@foreach($errors->all() as $message)

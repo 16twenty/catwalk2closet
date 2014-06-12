@@ -10,11 +10,12 @@ h1 {
 	margin-top:17px;
 }
 h2 {
-	font-size: 14px;
+	font-size: 15px;
 	color: #ffffff;
 	text-transform: uppercase;
 	text-align: center;
 	padding-top:26px;
+	font-weight: 600;
 }
 h3 {
 	font-size: 18px;
@@ -51,6 +52,17 @@ strong {
 	background: #e85496;
 	border: 1px solid #c51f69;
 }
+.btn.default {
+	background: #0fa4a1;
+	border: 1px solid #0c8d8a;
+}
+.btn.default a {
+	color:#ffffff;
+}
+.btn.default:hover {
+	background: #68c7c5;
+	border: 1px solid #0c8d8a;
+}
 p a {
 	color: #e21c74;
 }
@@ -61,6 +73,12 @@ p a:hover {
     -moz-transition: all .2s ease-out;
     -o-transition: all .2s ease-out;
     transition: all .2s ease-out;
+}
+.pull_right {
+	float:right!important;
+}
+.big_two {
+	font-size: 120%;
 }
 /*Header*/
 .header {
@@ -75,7 +93,25 @@ p a:hover {
 	padding-top:7px;
 }
 .navbar ul {
-	float:right;
+	-webkit-transition: margin .2s ease-out;
+    -moz-transition: margin .2s ease-out;
+    -o-transition: margin .2s ease-out;
+    transition: margin .2s ease-out;
+}
+.navbar ul.push_five {
+	-webkit-transition: margin .2s ease-out;
+    -moz-transition: margin .2s ease-out;
+    -o-transition: margin .2s ease-out;
+    transition: margin .2s ease-out;
+}
+.navbar .logo {
+	height:auto;
+}
+.row.navbar .six.centered {
+	margin-left: 26.53191%;
+}
+.row.navbar .six.push_six {
+	margin-left: 54.5%;
 }
 .logo {
 	margin: 100px 0 0 9px;	
@@ -83,6 +119,8 @@ p a:hover {
 .tagline {
 	font-size: 16px;
 	margin-top:3px;
+	color: #d3d3d3;
+	font-weight: 500;
 }
 .social  {
 	margin: 3px 0 110px 0;
@@ -217,7 +255,28 @@ p a:hover {
 	padding: 20px; 
 	margin-bottom: 50px;
 }
+.six.cta, .six.cta_blue {
+	padding-bottom: 20px;
+}
 .cta p {
+	text-align: left;
+	color: #ffffff;
+}
+.cta a {
+	color: #ffffff;
+	font-weight: 600;
+}
+.cta a:hover {
+	color: #ffffff;
+	font-weight: 600;
+}
+.cta_blue {
+	background-color: #0fa4a1;
+	color: #ffffff;
+	padding: 20px; 
+	margin-bottom: 50px;
+}
+.cta_blue p {
 	text-align: left;
 	color: #ffffff;
 }

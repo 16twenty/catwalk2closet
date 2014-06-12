@@ -13,8 +13,8 @@
 				<span class="paint_pink"></span>
 			</div>-->
 			<h5 class="text-center">Designers & Exhibitors</h5>
-			<p><i class="icon-mail"></i>Email: <a href="mailto:vendors@catwalk2closet.com">vendors@catwalk2closet.com</a></p>
-			<p><i class="icon-phone"></i>Phone: <a href="tel:4165353939">(416) 555-1324</a></p>
+			<p><i class="icon-mail"></i>Email: <a href="mailto:sales@catwalk2closet.com">sales@catwalk2closet.com</a></p>
+			<p><i class="icon-phone"></i>Phone: <a href="tel:4165353939">(416) 780-9000</a></p>
 		</div>
 		<div class="four columns">
 			<!--<div class="box" id="exhibitors">
@@ -31,8 +31,8 @@
 				<span class="paint_pink"></span>
 			</div>-->
 			<h5 class="text-center">General Information</h5>
-			<p><i class="icon-mail"></i>Email: <a href="mailto:general@catwalk2closet.com">general@catwalk2closet.com</a></p>
-			<p><i class="icon-phone"></i>Phone: <a href="tel:4165353939">(416) 555-1234</a></p>
+			<p><i class="icon-mail"></i>Email: <a href="mailto:info@catwalk2closet.com">info@catwalk2closet.com</a></p>
+			<p><i class="icon-phone"></i>Phone: <a href="tel:4165353939">(416) 780-9000</a></p>
 		</div>
 	</div>
 </div>

@@ -9,6 +9,13 @@
 			</div>
 		</div>
 	</div>
+	<div class="row">
+		<div class="cta">
+			<h3>Become an Exhibitor Now!</h3>
+			<p>With over 30K attendees anticipated to make their way to our <strong>FIRST EVER CATWALK <span class="big_two">2</span> CLOSET SAMPLE SALE</strong>, we are the best place in Toronto to show off your goods! Have a look at our <strong>SELL SHEET</strong> below and contact us for pricing and details! </p>
+			<div class="medium default btn icon-left entypo icon-map"><a href="#">SELL SHEET</a></div>
+		</div>
+	</div>
 	<div class="row" style="margin-top:30px;">
 		<div class="ten columns centered">
 			<div class="promo text-center">
@@ -18,34 +25,29 @@
 	</div>
 	<div class="row">
 		<div class="four columns">	
-			<ul class="exhibitor_list">
+			<!--<ul class="exhibitor_list">
 				<li><a href="#">Lorem ipsum dolor sit amet</a></li>
 				<li><a href="#">consectetuer adipiscing elit</a></li>
 				<li><a href="#">Aliquam tincidunt mauris eu risus</a></li>
 				<li><a href="#">Vestibulum auctor dapibus neque</a></li>
 				<li><a href="#">Nunc dignissim risus id metus</a></li>
 				<li><a href="#">Cras ornare tristique eli</a></li>
-			</ul>
+			</ul>-->
 		</div>
 		<div class="four columns">
 			<ul class="exhibitor_list">
-				<li><a href="#">Vivamus vestibulum nulla nec ante</a></li>
-				<li><a href="#">Praesent placerat risus quis eros</a></li>
-				<li><a href="#">Fusce pellentesque suscipit nibh</a></li>
-				<li><a href="#">Integer vitae libero ac risus egestas</a></li>
-				<li><a href="#">Vestibulum commodo felis quis tortor</a></li>
-				<li><a href="#">Ut aliquam sollicitudin leo</a></li>
+				<li><a href="#">Coming Soon...</a></li>
 			</ul>
 		</div>
 		<div class="four columns">
-			<ul class="exhibitor_list">
+			<!--<ul class="exhibitor_list">
 				<li><a href="#">Cras iaculis ultricies nulla</a></li>
 				<li><a href="#">Donec quis dui at dolor tempor interdum</a></li>
 				<li><a href="#">Vivamus molestie gravida turpis</a></li>
 				<li><a href="#">Fusce lobortis lorem at ipsum semper sagitti.</a></li>
 				<li><a href="#">Nam convallis pellentesque nisl</a></li>
 				<li><a href="#">Integer malesuada commodo nulla</a></li>
-			</ul>
+			</ul>-->
 		</div>
 	</div>
 </div>

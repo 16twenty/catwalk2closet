@@ -7,10 +7,12 @@ $('nav').on('gumby.onFixed', function(e) {
   //$('header').addClass('test');
  $('.header').addClass('top_space');
  $('.logo_scroll').addClass('logo_on');
+ $('.navbar ul').removeClass('centered').addClass('push_six');
 // scrolled back up past fix position now in original state
 }).on('gumby.onUnfixed', function(e) {
   $('.header').removeClass('top_space');
   $('.logo_scroll').removeClass('logo_on');
+  $('.navbar ul').addClass('centered').removeClass('push_six');
   });
 
   $('#navcontact').click(function(event){

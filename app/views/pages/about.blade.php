@@ -10,27 +10,50 @@
 		</div>
 	</div>
 	<div class="row">
-		<div class="ten columns centered">
+		<div class="six columns cta">
+			<h3><i class="icon-location"></i>Location</h3>
+			<p>
+				<strong>Heritage Court: Direct Energy Centre, CNE</strong>
+				<br>100 Princes' Blvd.
+				<br>Toronto, ON
+				<br><a href="https://www.google.ca/maps/place/100+Princes'+Blvd/@43.6344829,-79.4108713,17z/data=!3m1!4b1!4m2!3m1!1s0x882b351a5bca91e9:0xaa5cc333a2007728"><i class="icon-map"></i>Directions</a>
+			</p>
+		</div>
+		<div class="six columns cta_blue">
+			<h3><i class="icon-calendar"></i>Dates</h3>
+			<p>
+				<strong>Thurs, Oct 23, 2014</strong><span class="pull_right">10:00 AM - 9:00 PM</span>
+				<br><strong>Fri, Oct 24, 2014</strong><span class="pull_right">10:00 AM - 9:00 PM</span>
+				<br><strong>Sat, Oct 25, 2014</strong><span class="pull_right">10:00 AM - 9:00 PM</span>
+				<br><strong>Sun, Oct 263, 2014</strong><span class="pull_right">10:00 AM - 9:00 PM</span>
+			</p>
+		</div>
+	</div>
+	<div class="row">
+		<div class="twelve columns centered">
 			<img class="bordered" src="{{ asset('img/POOL_trade_show_feb12_HypeType-3_2000.jpg') }}">
 		</div>
 	</div>
 	<div class="row">
-		<div class="ten columns centered">
-			<p><strong>Nunc cras non</strong>, ultrices pulvinar augue. Turpis etiam enim in? Phasellus cras? Vel ultrices sociis et, elementum turpis. Augue nunc, vut augue mauris porta. Porttitor natoque sagittis adipiscing non dignissim! Ac enim nunc phasellus! Placerat hac? Natoque integer dis. <a href="#">Natoque</a> duis, egestas pid lorem nascetur. </p>
+		<div class="twelve columns centered">
+			<p><strong>Catwalk <span class="big_two">2</span> Closet (C<span class="big_two">2</span>C)</strong> is an innovative new consumer show selling designer and high-end label samples and surplus inventories at wholesale or better prices. Product mix includes ladies and men's outerwear, clothing, bags, scarves, hats, jewellery, sunglasses and shoes. </p>
 		</div>
 	</div>
 	<div class="row" style="margin-top:30px;">
 		<div class="ten columns centered">
 			<div class="promo text-center">
-				<h4>"Toronto's only premier designer sample sale and tradeshow"</h4>
+				<h4>"the only show of its kind in Toronto"</h4>
 			</div>
 		</div>
 	</div>
 	<div class="row">
-		<div class="ten columns centered">	
-			<p>Magnis adipiscing mid, nec vel. Et mattis massa vel, augue sed integer magnis a integer lacus scelerisque enim? Aliquet cursus natoque, lacus duis vut, pellentesque. <strong>Porta nisi egestas aliquam tristique</strong>, amet quis dapibus sociis urna! Scelerisque augue, parturient ridiculus purus! Tortor porta enim et aenean, sit, magna, cum dolor in duis, mid <a href="#">adipiscing</a>, nisi quis, nisi cursus magna rhoncus ridiculus adipiscing, ut? Lectus eu et sed auctor lectus odio turpis lectus? Hac placerat, eros.</p>
-
-			<p style="padding-bottom:30px;">Quis. Nisi, ultricies et. Integer? Dictumst urna scelerisque mid? Rhoncus adipiscing? Vut nec, amet! Turpis? Augue? Tincidunt turpis scelerisque, augue facilisis sagittis sed rhoncus. Habitasse, elementum facilisis augue tincidunt, sed risus ultricies lundium nascetur! Ultrices augue et adipiscing mattis sed ridiculus ac mid magnis in sagittis ut, adipiscing penatibus pulvinar ac duis a, nunc placerat magna enim, <strong>nisi porttitor aenean et!</strong> A? Enim rhoncus purus elementum? Rhoncus, magnis porttitor, urna placerat? A pellentesque, pulvinar facilisis enim nascetur enim habitasse? Porta phasellus proin? <a href="#">Massa lorem</a> hac vel duis, et platea, aenean dolor penatibus! Proin? Aenean. Mid enim vel mattis ultrices, rhoncus porttitor a penatibus, mus sit dapibus rhoncus, pellentesque velit, auctor. Integer, turpis vel mus ac cras egestas, dapibus elit.</p>
+		<div class="twelve columns centered">	
+			<p>Show Exhibitors are amongst the most sought after new and well established labels that will offer a great variety of product selections. Fashionista's and Fashionisto's can shop till they drop at 50 to 80% off retail prices. <strong>Catwalk <span class="big_two">2</span> Closet</strong> is the only show of its kind in Toronto that offers over 100 brands to shop under one roof.</p>
+		</div>
+	</div>
+	<div class="row">
+		<div class="twelve columns centered">	
+			<p style="padding-bottom:30px;">Follow us on <a href=""><i class="icon-twitter"></i>Twitter</a> and LIKE us on <a href=""><i class="icon-facebook-squared"></i>Facebook</a> to learn more about the brands offered at the show and <strong>win great prizes!</strong></p>
 		</div>
 	</div>
 </div>
