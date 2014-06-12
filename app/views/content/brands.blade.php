@@ -15,7 +15,8 @@
 	</div>
 	<div class="row list">
 		<div class="ten columns centered text-center">
-			<div class="three columns">
+			<!--
+<div class="three columns">
 				<img src="{{ asset('img/calvin_klein.png') }}" width="121">
 				<img src="{{ asset('img/fred_perry.png') }}" width="121">
 				<img src="{{ asset('img/levis.png') }}" width="121">
@@ -39,6 +40,7 @@
 				<img src="{{ asset('img/nike1.png') }}" width="121">
 				<img src="{{ asset('img/tommy_hilfiger.png') }}" width="121">
 			</div>
+-->
 		</div>
 	</div>
 </div>
