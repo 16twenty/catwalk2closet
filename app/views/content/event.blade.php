@@ -13,7 +13,7 @@
 				<strong>Heritage Court: Direct Energy Centre, CNE</strong>
 				<br>100 Princes' Blvd.
 				<br>Toronto, ON
-				<br><a href="https://www.google.ca/maps/place/100+Princes'+Blvd/@43.6344829,-79.4108713,17z/data=!3m1!4b1!4m2!3m1!1s0x882b351a5bca91e9:0xaa5cc333a2007728"><i class="icon-map"></i>Directions</a>
+				<br><a href="https://www.google.ca/maps/place/100+Princes'+Blvd/@43.6344829,-79.4108713,17z/data=!3m1!4b1!4m2!3m1!1s0x882b351a5bca91e9:0xaa5cc333a2007728" target="_blank"><i class="icon-map"></i>Directions</a>
 			</p>
 		</div>
 		<div class="six columns cta_blue">
