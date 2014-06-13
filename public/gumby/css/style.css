@@ -249,13 +249,34 @@ p a:hover {
 #vip {
 	background: url(../../img/6ee0de6fb69ebf7d9ff8301e36c202bbea509a.jpg) center center no-repeat;
 }
-.cta {
+.cta, .cta_deets {
 	background-color: #e21c74;
 	color: #ffffff;
 	padding: 20px; 
 	margin-bottom: 50px;
 }
-.six.cta, .six.cta_blue {
+.cta_deets {
+	background-color: transparent;
+}
+.cta_deets h3 {
+	color: #7b7a7a;
+}
+.cta_deets i {
+	margin-left:0;
+}
+.cta_deets a{
+	color: #7b7a7a;
+	font-weight: 600;
+}
+.cta_deets a:hover {
+	color: #e21c74;
+}
+.cta_deets p{
+	text-align: left;
+	color: #7b7a7a;
+	font-size: 110%;
+}
+.six.cta_deets {
 	padding-bottom: 20px;
 }
 .cta p {
@@ -269,12 +290,6 @@ p a:hover {
 .cta a:hover {
 	color: #ffffff;
 	font-weight: 600;
-}
-.cta_blue {
-	background-color: #0fa4a1;
-	color: #ffffff;
-	padding: 20px; 
-	margin-bottom: 50px;
 }
 .cta_blue p {
 	text-align: left;
