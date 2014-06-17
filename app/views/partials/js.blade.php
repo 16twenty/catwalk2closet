@@ -21,4 +21,54 @@ $('nav').on('gumby.onFixed', function(e) {
 		scrollTop: $('footer').offset().top}, 1000);
   });
 </script>
+<script type="text/javascript">
+	var featuredcurrent = 0;
+	var brandscurrent = 0;
 
+
+function slidesection(index, current, panels) {
+  		var lastpanel = panels.length-1;
+  		//$(panels[current]).animate({"margin-left": "-100%"},'slow');
+  		
+  		console.log(index);
+  		if (index == 0) { //previous
+  			if (current == 0) {
+	  			current = lastpanel;
+	  			for(i = 0;i < lastpanel; i++) {
+		  			$(panels[i]).animate({"margin-left": "-100%"},'slow');
+		  		}
+  			} else {
+	  			current -= 1;
+	  			$(panels[current]).animate({"margin-left": "0%"},'slow');	  			
+	  		}
+	  		//$(panels[current]).animate({"margin-left": "-100%"},'slow');
+  		} else { //next
+  			if (current == lastpanel) {
+	  			current = 0;
+	  			for(i = lastpanel-1; i >= 0; i--) {
+		  			$(panels[i]).animate({"margin-left": "0%"},'slow');
+		  		}
+  			} else {
+  				$(panels[current]).animate({"margin-left": "-100%"},'slow');
+	  			current += 1;
+	  		}
+	  		//$(panels[current]).animate({"margin-left": "-100%"},'slow');
+  		};
+  		console.log(current);
+  		return current;
+  		//panels[current].style.display="block";
+}
+
+	// bind to tabs click event
+	$('.tab-nav li').click(function(e) {
+		var index = $(this).val();
+		var panels = $('.tab-content');
+		featuredcurrent = slidesection(index,featuredcurrent,panels);
+  	});
+  	
+  	//$('.tab-nav li').click(function(e) {
+//		var index = $(this).val();
+	//	var panels = $('.tab-content');
+	//	slidesection(index,brandscurrent,panels);
+ // 	});
+</script>
