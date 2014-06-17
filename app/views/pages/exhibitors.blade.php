@@ -30,7 +30,8 @@
 		</div>
 		<div class="four columns">
 			<ul class="exhibitor_list">
-				<li><a href="#">Coming Soon...</a></li>
+				<li><a href="http://www.northland-pro.com/en/" target="_blank">Northland Pro</a></li>
+				<li><a href="http://shoplazypants.com/" target="_blank">Lazypants</a></li>
 			</ul>
 		</div>
 		<div class="four columns">
