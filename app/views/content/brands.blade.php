@@ -15,32 +15,44 @@
 	</div>
 	<div class="row list">
 		<div class="ten columns centered text-center">
-			<!--
-<div class="three columns">
+			<div class="three columns">
+<!--
 				<img src="{{ asset('img/calvin_klein.png') }}" width="121">
 				<img src="{{ asset('img/fred_perry.png') }}" width="121">
 				<img src="{{ asset('img/levis.png') }}" width="121">
 				<img src="{{ asset('img/puma.png') }}" width="121">
+-->
 			</div>
 			<div class="three columns">
-				<img src="{{ asset('img/ralph_lauren.png') }}" width="121">
+				<img src="{{ asset('img/northland.png') }}" width="121">
+<!--
 				<img src="{{ asset('img/gap.png') }}" width="121">
 				<img src="{{ asset('img/mexx.png') }}" width="121">
 				<img src="{{ asset('img/roots.png') }}" width="121">
+-->
 			</div>
 			<div class="three columns">
-				<img src="{{ asset('img/3.diesel.png') }}" width="121">
-				<img src="{{ asset('img/ken_cole.png') }}" width="121">
+				<img src="{{ asset('img/lazypants.png') }}" width="121">
+				<!--<img src="{{ asset('img/ken_cole.png') }}" width="121">
 				<img src="{{ asset('img/New_Balance1.png') }}" width="121">
-				<img src="{{ asset('img/timberland.png') }}" width="121">
+				<img src="{{ asset('img/timberland.png') }}" width="121">-->
 			</div>
 			<div class="three columns">
+<!--
 				<img src="{{ asset('img/8.fcuk_.png') }}" width="121">
 				<img src="{{ asset('img/lacoste.png') }}" width="121">
 				<img src="{{ asset('img/nike1.png') }}" width="121">
 				<img src="{{ asset('img/tommy_hilfiger.png') }}" width="121">
-			</div>
 -->
+			</div>
+
+		</div>
+	</div>
+	<div class="row">
+		<div class="nine columns centered">
+			<div class="promo text-center">
+				<h4>Check us out as we grow</h4>
+			</div>
 		</div>
 	</div>
 </div>

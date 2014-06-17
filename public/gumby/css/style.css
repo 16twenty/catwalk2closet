@@ -296,6 +296,55 @@ p a:hover {
 	color: #ffffff;
 }
 /*Featured*/
+.feature_wrap {
+	overflow: hidden;
+}
+.tabs {
+	width:300%;
+	position: relative;
+	min-height: 402px;
+	
+}
+.tab-nav {
+	position: absolute;
+	border: none;
+	width:33.333%;
+	bottom:41px;
+}
+.tab-nav > li {
+	margin:0;
+	box-shadow: none;
+	-webkit-box-shadow: none;
+}
+
+.tab-nav > li > a {
+	background: transparent;
+	border: none;
+	font-size: 100px;
+	font-weight: 100;
+	color: #ffffff;
+	text-shadow: 0 1px 1px #000000;
+	-webkit-transition: all .2s ease-out;
+    -moz-transition: all .2s ease-out;
+    -o-transition: all .2s ease-out;
+    transition: all .2s ease-out;
+}
+.tab-nav > li > a:hover {
+	text-shadow: 0 1px 5px #000000;
+	-webkit-transition: all .2s ease-out;
+    -moz-transition: all .2s ease-out;
+    -o-transition: all .2s ease-out;
+    transition: all .2s ease-out;
+}
+.tab-nav > li > a:hover, .tab-nav > li.active a {
+	background: transparent;
+}
+.tab-content {
+	padding: 0;
+	float:left;
+	display:inline;
+	width:33.333%;
+}
 .featured {
 	background-color: #a0d2cf;
 }
@@ -308,6 +357,9 @@ p a:hover {
 }
 .f_brand {
 	background-color: #c40e5f;
+}
+#northland {
+	background-color: #77767c;
 }
 /*Brands*/
 .brands {
