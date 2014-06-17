@@ -122,8 +122,15 @@ p a:hover {
 	color: #d3d3d3;
 	font-weight: 500;
 }
+.tagline_2 {
+	font-size: 18px;
+	margin-top:-13px;
+	color: #d3d3d3;
+	font-weight: 600;
+}
 .social  {
 	margin: 3px 0 110px 0;
+	font-size: 18px;
 }
 .social a {
 	color: #7b7a7a;

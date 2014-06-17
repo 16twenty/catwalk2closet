@@ -23,13 +23,13 @@
 	<div class="row" style="margin-top:30px;">
 		<div class="ten columns centered">
 			<div class="promo text-center">
-				<h4>"the only show of its kind in Toronto"</h4>
+				<h4>"The largest designer sample sale in Toronto"</h4>
 			</div>
 		</div>
 	</div>
 	<div class="row">
 		<div class="twelve columns centered">	
-			<p>Show Exhibitors are amongst the most sought after new and well established labels that will offer a great variety of product selections. Fashionista's and Fashionisto's can shop till they drop at 50 to 80% off retail prices. <strong>Catwalk <span class="big_two">2</span> Closet</strong> is the only show of its kind in Toronto that offers over 100 brands to shop under one roof.</p>
+			<p>Show Exhibitors are amongst the most sought after new and well established labels that will offer a great variety of product selections. Fashionistas and Fashionistos can shop till they drop at 50 to 80% off retail prices. <strong>Catwalk <span class="big_two">2</span> Closet</strong> is the Largest Designer Sample Sale in Toronto that offers over 100 brands under one roof.</p>
 		</div>
 	</div>
 	<div class="row">

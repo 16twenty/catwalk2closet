@@ -3,10 +3,10 @@
 		<div class="six columns centered text-center">
 			<a href="{{ URL::to('/') }}"><img class="logo" src="{{ asset('img/logo.png') }}" width="443"></a>
 			<p class="tagline">Toronto's Largest Designer Sample Sale</p>
+			<p class="tagline_2">October 23 - 26, 2014</p>
 			<p class="social">
 				<a href="https://www.facebook.com/pages/Catwalk-2-Closet-Toronto/670426873007197" target="_blank"><i class="icon-facebook-squared"></i></a>
 				<a href="https://twitter.com/Catwalk2Closet" target="_blank"><i class="icon-twitter"></i></a>
-				<a href="#"><i class="icon-instagram"></i></a>
 			</p>
 		</div>
 	</div>
