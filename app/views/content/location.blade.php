@@ -11,9 +11,9 @@
 		<div class="six columns cta_deets">
 			<h3><i class="icon-calendar"></i>Dates</h3>
 			<p>
-				<strong>Thur, Oct 23, 2014</strong><span class="pull_right">10:00 AM - 5:00 PM</span>
-				<br><strong>Fri, Oct 24, 2014</strong><span class="pull_right">10:00 AM - 5:00 PM</span>
-				<br><strong>Sat, Oct 25, 2014</strong><span class="pull_right">10:00 AM - 5:00 PM</span>
+				<strong>Thur, Oct 23, 2014</strong><span class="pull_right">10:00 AM - 9:00 PM</span>
+				<br><strong>Fri, Oct 24, 2014</strong><span class="pull_right">10:00 AM - 9:00 PM</span>
+				<br><strong>Sat, Oct 25, 2014</strong><span class="pull_right">10:00 AM - 9:00 PM</span>
 				<br><strong>Sun, Oct 26, 2014</strong><span class="pull_right">10:00 AM - 5:00 PM</span>
 			</p>
 		</div>
