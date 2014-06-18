@@ -27,9 +27,7 @@ $('nav').on('gumby.onFixed', function(e) {
 
 
 function slidesection(index, current, panels) {
-  		var lastpanel = panels.length-1;
-  		//$(panels[current]).animate({"margin-left": "-100%"},'slow');
-  		
+  		var lastpanel = panels.length-1;  		
   		console.log(index);
   		if (index == 0) { //previous
   			if (current == 0) {
@@ -41,7 +39,6 @@ function slidesection(index, current, panels) {
 	  			current -= 1;
 	  			$(panels[current]).animate({"margin-left": "0%"},'slow');	  			
 	  		}
-	  		//$(panels[current]).animate({"margin-left": "-100%"},'slow');
   		} else { //next
   			if (current == lastpanel) {
 	  			current = 0;
@@ -52,11 +49,9 @@ function slidesection(index, current, panels) {
   				$(panels[current]).animate({"margin-left": "-100%"},'slow');
 	  			current += 1;
 	  		}
-	  		//$(panels[current]).animate({"margin-left": "-100%"},'slow');
   		};
   		console.log(current);
   		return current;
-  		//panels[current].style.display="block";
 }
 
 	// bind to tabs click event
