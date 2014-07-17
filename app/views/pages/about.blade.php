@@ -34,7 +34,7 @@
 	</div>
 	<div class="row">
 		<div class="twelve columns centered">	
-			<p style="padding-bottom:30px;">Follow us on <a href=""><i class="icon-twitter"></i>Twitter</a> and LIKE us on <a href=""><i class="icon-facebook-squared"></i>Facebook</a> to learn more about the brands offered at the show and <strong>win great prizes!</strong></p>
+			<p style="padding-bottom:30px;">Follow us on <a href="https://twitter.com/Catwalk2Closet" target="_blank"><i class="icon-twitter"></i>Twitter</a> and LIKE us on <a href="https://www.facebook.com/pages/Catwalk-2-Closet-Toronto/670426873007197" target="_blank"><i class="icon-facebook-squared"></i>Facebook</a> to learn more about the brands offered at the show and <strong>win great prizes!</strong></p>
 		</div>
 	</div>
 </div>
