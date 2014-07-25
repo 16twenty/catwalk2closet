@@ -13,9 +13,10 @@ class ListController extends Controller {
                                         'Last Name' => 'required|alpha',
                                         'email'=>'required|email'));
         if($valid->passes()) {
-            $temp = MailchimpWrapper::lists()->getList();
-        
-            $listid = $temp['data'][0]['id'];
+            //$temp = MailchimpWrapper::lists()->getList();
+            
+            //$listid = $temp['data'][0]['id'];
+            $listid = "fec98b9027"; //vips list in catwalk2closet mailchimp account.
             $mergevars = array('FNAME'=>Input::get('firstname'),'LNAME'=>Input::get('lastname'));
             $email = array('email'=>Input::get('email'));
             try {
