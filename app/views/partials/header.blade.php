@@ -31,7 +31,7 @@
 				<a href="{{ URL::to('/vip') }}">VIP</a>
 			</li>
 			<li>
-				<a href="" id="navcontact">Contact</a>
+				<a id="navcontact">Contact</a>
 			</li>
 		</ul>
 	</div>
