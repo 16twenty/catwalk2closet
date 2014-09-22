@@ -1,9 +1,4 @@
-@extends('layouts.default')
-
-@section('content')
-
-@include('content.event')
-@include('content.featured')
+<!--Brands Homepage -->
 @include('content.brands')
 <div class="brands">
 @include('content.sellsheet')
@@ -15,6 +10,3 @@
 		</div>
 	</div>
 </div>
-@include('content.contact')
-
-@stop
