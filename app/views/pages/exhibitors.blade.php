@@ -20,43 +20,75 @@
 	<div class="row">
 		<div class="four columns">	
 			<ul class="exhibitor_list">
-				<li><a href="http://www.fredperry.com/" target="_blank">Fred Perry</a></li>
-				<li><a href="http://oliverspencer.co.uk/" target="_blank">Oliver Spencer</a></li>
-				<li><a href="http://www.filson.com/" target="_blank">Filson</a></li>
-				<li><a href="http://aigleboots.com/" target="_blank">Aigle</a></li>
-				<li><a href="http://www.nau.com/" target="_blank">Nau</a></li>
-				<li><a href="http://rivieras-shoes.com/world/fr/?iso_site=eu" target="_blank">Rivieras</a></li>
-				<li><a href="http://www.swissarmy.com/ca/app/content/" target="_blank">Victorinox</a></li>
 				<li><a href="http://www.narces.com" target="_blank">Narces</a></li>
-				<li><a href="http://www.vintagebypamelasimon.com" target="_blank">Vintage by Pamela Simon</a></li>
-			</ul>
-		</div>
-		<div class="four columns">
-			<ul class="exhibitor_list">
-				<li><a href="http://www.northland-pro.com/en/" target="_blank">Northland Pro</a></li>
-				<li><a href="http://shoplazypants.com/" target="_blank">Lazypants</a></li>
-				<li><a href="http://www.wayneclarkdesign.com/#/home" target="_blank">Wayne Clark</a></li>
-				<li><a href="http://www.arthurmendonca.ca" target="_blank">Arthur Mendonca</a></li>
-				<li><a href="http://www.bekerfashions.com/" target="_blank">Frascara</a></li>
-				<li><a href="http://www.hue.com/Default.aspx" target="_blank">Hue Legwear</a></li>
-				<li><a href="http://www.yummielife.com/" target="_blank">Yummie By Heather Thompson</a></li>
-				<li><a href="http://www.jewellerybykaren.com" target="_blank">Karen McFarlane</a></li>
-				<li><a href="http://www.caretaimports.com" target="_blank">Careta</a></li>
-				<li><a href="http://www.andrewmajtenyi.com" target="_blank">Andrew Majtenyi</a></li>
-				
-			</ul>
-		</div>
-		<div class="four columns">
-			<ul class="exhibitor_list">
-				<li><a href="http://www.gloverall.com/" target="_blank">Gloverall</a></li>
-				<li><a href="http://www.rubyanded.co.uk/" target="_blank">Ruby + Ed</a></li>
-				<li><a href="http://www.randolphusa.com" target="_blank">Randolph</a></li>
-				<li><a href="http://www.toddsnyder.com/" target="_blank">Todd Snyder</a></li>
-				<li><a href="http://www.coteetciel.com/en-CA/" target="_blank">Cote-Ciel</a></li>
-				<li><a href="http://www.prettyyoulondon.com/" target="_blank">Pretty You Slippers</a></li>
-				<li><a href="http://www.lamarquecollection.com/" target="_blank">LaMarque</a></li>
 				<li><a href="http://www.jennifertorosian.com" target="_blank">Jennifer Torosian</a></li>
-				<li><a href="http://www.farleychatto.com" target="_blank">Four Seasons Fur</a></li>
+				<li><a href="http://www.jewellerybykaren.com" target="_blank">Karen McFarlane</a></li>
+				<li><a href="http://www.vintagebypamelasimon.com" target="_blank">Vintage by Pamela Simon</a></li>
+				<li><a href="http://www.caretaimports.com" target="_blank">Careta</a></li>
+				<li><a href="http://www.caretaimports.com" target="_blank">Sun'n Sand</a></li>
+				<li><a href="http://www.caretaimports.com" target="_blank">Laurel Bunch</a></li>
+				<li><a href="http://www.shearlings.com" target="_blank">Christ Shearlings</a></li>
+				<li><a href="http://www.farleychatto.com" target="_blank">Farley Chatto</a></li>
+				<li><a href="http://www.andrewmajtenyi.com" target="_blank">Andrew Majtenyi</a></li>
+				<li><a href="http://www.palpo.ca" target="_blank">Palpo</a></li>
+				<li><a href="http://www.lamarquecollection.com" target="_blank">La Marque</a></li>
+				<li><a href="http://www.lamarquecollection.com" target="_blank">Criminal Damage</a></li>
+				<li><a href="http://www.lamarquecollection.com" target="_blank">Glamorous</a></li>
+				<li><a href="http://www.lamarquecollection.com" target="_blank">Boy London</a></li>
+				<li><a href="http://www.mackage.com/" target="_blank">Mackage</a></li>
+				<li><a href="http://www.trendm.com" target="_blank">BCBGeneration</a></li>
+				<li><a href="http://www.trendm.com" target="_blank">Arthur Chiang</a></li>
+				<li><a href="http://www.trendm.com" target="_blank">Carlos Santana</a></li>
+				<li><a href="http://www.trendm.com" target="_blank">Vince Camuto</a></li>
+			</ul>
+		</div>
+		<div class="four columns">
+			<ul class="exhibitor_list">
+				<li><a href="http://www.trendm.com" target="_blank">Circus by Sam Edelman</a></li>
+				<li><a href="http://www.trendm.com" target="_blank">Donald J. Pliner</a></li>
+				<li><a href="http://www.trendm.com" target="_blank">Dr. Scholl's</a></li>
+				<li><a href="http://www.trendm.com" target="_blank">Fergalicious</a></li>
+				<li><a href="http://www.trendm.com" target="_blank">Fergie</a></li>
+				<li><a href="http://www.trendm.com" target="_blank">Franco Sarto</a></li>
+				<li><a href="http://www.trendm.com" target="_blank">Ipanema</a></li>
+				<li><a href="http://www.trendm.com" target="_blank">Italian Shoemaker</a></li>
+				<li><a href="http://www.trendm.com" target="_blank">Life Stride</a></li>
+				<li><a href="http://www.trendm.com" target="_blank">Louise et Cie</a></li>
+				<li><a href="http://www.trendm.com" target="_blank">Jessica Simpson</a></li>
+				<li><a href="http://www.trendm.com" target="_blank">Lucky Brand</a></li>
+				<li><a href="http://www.trendm.com" target="_blank">Posh Wellies</a></li>
+				<li><a href="http://www.trendm.com" target="_blank">Naturalizer</a></li>
+				<li><a href="http://www.trendm.com" target="_blank">Naya</a></li>
+				<li><a href="http://www.trendm.com" target="_blank">Sam Edelman</a></li>
+				<li><a href="http://www.trendm.com" target="_blank">Via Spiga</a></li>
+				<li><a href="http://www.panaxis.net" target="_blank">Yummie By Heather Thompson</a></li>
+				<li><a href="http://www.panaxis.net" target="_blank">Pretty You Slippers</a></li>
+				<li><a href="http://www.panaxis.net" target="_blank">Hue Legwear</a></li>
+				<li><a href="http://www.bekerfashions.com" target="_blank">Arthur Mendonca</a></li>
+			</ul>
+		</div>
+		<div class="four columns">
+			<ul class="exhibitor_list">
+				<li><a href="http://www.wayneclarkdesign.com/#/home" target="_blank">Wayne Clark</a></li>
+				<li><a href="http://www.bekerfashions.com" target="_blank">Frascara</a></li>
+				<li><a href="http://www.shop.foreveryoungorganicscrubs.com/" target="_blank">Forever Young Organic Scrubs</a></li>
+				<li><a href="http://www.rok-cork.ca" target="_blank">Rok Cork</a></li>
+				<li><a href="http://www.skinnysweats.com" target="_blank">Skinny Sweats</a></li>
+				<li><a href="http://www.andraboutique.com" target="_blank">Anat</a></li>
+				<li><a href="http://www.andraboutique.com" target="_blank">Gravani</a></li>
+				<li><a href="http://www.andraboutique.com" target="_blank">Collection Chantale Beaudet</a></li>
+				<li><a href="http://www.garbo.ca" target="_blank">Garbo</a></li>
+				<li><a href="http://www.garbo.ca" target="_blank">Anne Klein</a></li>
+				<li><a href="http://www.garbo.ca" target="_blank">Nine West</a></li>
+				<li><a href="http://www.garbo.ca" target="_blank">Rachel Roy</a></li>
+				<li><a href="http://www.garbo.ca" target="_blank">Cezanne</a></li>
+				<li><a href="#" target="_blank">Lazypants</a></li>
+				<li><a href="http://www.northland-pro.com" target="_blank">Northland Pro</a></li>
+				<li><a href="http://www.davidkahnjeans.us" target="_blank">David Kahn</a></li>
+				<li><a href="http://www.vizcainopremiumdenim.com" target="_blank">Vizcaino Jeans</a></li>
+				<li><a href="#" target="_blank">Joe Cool</a></li>
+				<li><a href="#" target="_blank">Krysia</a></li>
+				<li><a href="http://www.hardcandy.com" target="_blank">Hard Candy</a></li>				
 			</ul>
 		</div>
 	</div>
