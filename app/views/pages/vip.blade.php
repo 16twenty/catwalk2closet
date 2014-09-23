@@ -9,6 +9,7 @@
 			</div>
 		</div>
 	</div>
+	@include('content.mediaday')
 	<div class="row">
 	    <div class="eight columns centered text-center">
 	        <p>Sign up and be the first to receive C2C <strong>exclusive offers and contests</strong> as well as a <strong>personal VIP invite</strong> to shop the show first before we open to the public.<br> Fill out the form below and become a VIP.</p>

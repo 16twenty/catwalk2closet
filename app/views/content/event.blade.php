@@ -6,6 +6,7 @@
 			</div>
 		</div>
 	</div>
+	@include('content.mediaday')
 	@include('content.location')
 	<div class="row inner_nav">
 		<div class="four columns">
