@@ -42,7 +42,7 @@
 				<li><a href="http://www.trendm.com" target="_blank">Arthur Chiang</a></li>
 				<li><a href="http://www.trendm.com" target="_blank">Carlos Santana</a></li>
 				<li><a href="http://www.trendm.com" target="_blank">Vince Camuto</a></li>
-				<li><a href="www.jeannelottie.com" target="_blank">Jean Lottie</a></li>
+				<li><a href="www.jeannelottie.com" target="_blank">Jeanne Lottie</a></li>
 				<li><a href="www.labordeshop.com" target="_blank">Kristen Laborde</a></li>
 				<li><a href="www.yukonfurs.com" target="_blank">Furs by Anthos</a></li>
 				
