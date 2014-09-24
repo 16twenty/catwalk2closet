@@ -42,9 +42,9 @@
 				<li><a href="http://www.trendm.com" target="_blank">Arthur Chiang</a></li>
 				<li><a href="http://www.trendm.com" target="_blank">Carlos Santana</a></li>
 				<li><a href="http://www.trendm.com" target="_blank">Vince Camuto</a></li>
-				<li><a href="www.jeannelottie.com" target="_blank">Jeanne Lottie</a></li>
-				<li><a href="www.labordeshop.com" target="_blank">Kristen Laborde</a></li>
-				<li><a href="www.yukonfurs.com" target="_blank">Furs by Anthos</a></li>
+				<li><a href="http://www.jeannelottie.com" target="_blank">Jeanne Lottie</a></li>
+				<li><a href="http://www.labordeshop.com" target="_blank">Kristen Laborde</a></li>
+				<li><a href="http://www.yukonfur.com" target="_blank">Furs by Anthos</a></li>
 				
 			</ul>
 		</div>
@@ -72,8 +72,8 @@
 				<li><a href="http://www.panaxis.net" target="_blank">Hue Legwear</a></li>
 				<li><a href="http://www.bekerfashions.com" target="_blank">Arthur Mendonca</a></li>
 				<li><a href="http://www.hardcandy.com" target="_blank">Hard Candy</a></li>	
-				<li><a href="www.terramarsports.com" target="_blank">Terramar Sports</a></li>
-				<li><a href="www.bridgedale.com" target="_blank">Bridgedale Socks</a></li>	
+				<li><a href="http://www.terramarsports.com" target="_blank">Terramar Sports</a></li>
+				<li><a href="http://www.bridgedale.com" target="_blank">Bridgedale Socks</a></li>	
 				<li><a href="#" target="_blank">Chronic Clothing</a></li>
 			</ul>
 		</div>
@@ -102,7 +102,7 @@
 				<li><a href="#" target="_blank">Swarovsky Crystal Jewellery</a></li>
 				<li><a href="#" target="_blank">Essie</a></li>
 				<li><a href="#" target="_blank">Soap and Glory</a></li>
-				<li><a href="#" target="_blank">Bert's Bees</a></li>
+				<li><a href="#" target="_blank">Burt's Bees</a></li>
 				<li><a href="#" target="_blank">Foster Grant</a></li>
 	
 			</ul>
